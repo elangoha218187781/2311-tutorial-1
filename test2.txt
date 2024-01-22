@@ -1,1 +1,3 @@
 This is test2.txt.
+
+We are adding new changes just for the git branch.
